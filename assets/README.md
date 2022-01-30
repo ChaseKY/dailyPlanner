@@ -3,3 +3,4 @@ This daily planner was created to help keep track of your daily work schedule wh
 
 ![website](assets\website.png)
 
+https://chaseky.github.io/dailyPlanner/
